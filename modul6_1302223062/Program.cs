@@ -122,7 +122,7 @@ class Program
         user1.addVideo(video10);
 
         user1.PrintAllVideoPlaycount();
-        video1.PrintVideoDetails
+        video1.PrintVideoDetails();
 
 
     }
